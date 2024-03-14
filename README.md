@@ -1,16 +1,38 @@
-<h1 align="center">Hi 👋, I'm Adam Lacey</h1>
-<h3 align="center">I am a passionate, enthusiastic and aspiring Software Engineer!</h3>
+<h1 align="left">Hello 👋, I'm Adam</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamlacey&label=Profile%20views&color=0e75b6&style=flat" alt="adamlacey" /> </p>
+###
 
-- 🌱 I’m currently learning **Python Programming**
+<p align="left">I'm a passionate, enthusiastic and aspiring Software Engineer with a keen interest in back-end development. <br><br>I'm currently a Software Engineering Student at HyperionDev's Bootcamp.</p>
 
-- 📫 How to reach me **adamlacey06@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adamklacey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamklacey" height="30" width="40" /></a>
-</p>
+<h2 align="left">About me</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
+
+<p align="left">I’m currently learning: Python</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/adamklacey/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:adamlacey06@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+###
