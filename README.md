@@ -4,6 +4,8 @@
 
 <p align="left">I'm a passionate, enthusiastic and aspiring Software Engineer with a keen interest in back-end development. <br><br>I'm currently a Software Engineering Student at HyperionDev's Bootcamp.</p>
 
+![pngtree-workstation-clipart-desk-cluttered-with-toys-and-plants-with-a-computer-png-image_6827360](https://github.com/adamlacey/adamlacey/assets/153545317/844591ef-4a69-4785-a001-02df4980ef3f)
+
 ###
 
 <h2 align="left">About me</h2>
