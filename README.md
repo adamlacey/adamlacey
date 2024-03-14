@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a passionate, enthusiastic and aspiring Software Engineer with a keen interest in back-end development. <br><br>I'm currently a Software Engineering Student at HyperionDev's Bootcamp.</p> ![Display image of computer.](https://static.vecteezy.com/system/resources/previews/009/877/855/non_2x/pixel-art-laptop-computer-with-graphics-on-the-screen-8-bit-game-item-on-white-background-vector.jpg)
+<p align="left">I'm a passionate, enthusiastic and aspiring Software Engineer with a keen interest in back-end development. <br><br>I'm currently a Software Engineering Student at HyperionDev's Bootcamp.</p>
 
 ###
 
