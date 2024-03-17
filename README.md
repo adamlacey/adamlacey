@@ -2,9 +2,11 @@
 
 ###
 
-<p align="left">Scottish born, living in London!<br><br>I'm a passionate, enthusiastic and aspiring Software Engineer with a keen interest in back-end development. <br><br>I'm currently a Software Engineering Student at HyperionDev's Bootcamp.<br><br>👨‍💻 I am currently working in hospitality and studying coding part time.<br>📚 Learning about everything to do with Python.<br>💪🏼 Future Goals: To learn more coding languages like Java and C++.</p>
+<p align="left">Scottish born, living in London!<br><br>I'm a passionate and enthusiastic Software Engineer with a keen interest in back-end development. <br><br>I'm currently a Software Engineering Student at HyperionDev's Bootcamp.<br><br>👨‍💻 I am currently working in hospitality and studying coding part time.<br>📚 Learning about everything to do with Python.<br>💪🏼 Future Goals: To learn more coding languages like Java and C++.</p>
 
 ###
+
+![newFeatures](https://github.com/adamlacey/adamlacey/assets/153545317/b8526ba8-b3a0-4ba8-b93f-eb0bc2f595ac)
 
 <h2 align="left">Connect with me below:</h2>
 
