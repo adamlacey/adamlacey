@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Scottish born, living in London!<br><br>I'm a passionate and enthusiastic Software Engineer with a keen interest in back-end development. <br><br>I'm currently a Software Engineering Student at HyperionDev's Bootcamp.<br><br>👨‍💻 I am currently working in hospitality and studying coding part time.<br>📚 Learning about everything to do with Python.<br>💪🏼 Future Goals: To learn more coding languages like Java and C++.</p>
+<p align="left">Scottish born, living in London!<br><br>I'm a passionate and enthusiastic Software Engineer with a keen interest in back-end development. <br><br>I'm currently a Software Engineering Student at HyperionDev's Bootcamp.<br><br>👨‍💻 I am currently working full-time and studying coding part time.<br>📚 Learning about everything to do with Python.<br>💪🏼 Future Goals: To learn more coding languages like Java and C++.</p>
 
 ###
 
